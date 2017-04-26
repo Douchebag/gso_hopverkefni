@@ -43,8 +43,8 @@ CREATE TABLE lag
   nafn VARCHAR(50) NOT NULL,
   lengd_sek INT NOT NULL,
   texti LONGTEXT,
-  FOREIGN KEY (ID),
-    REFERENCES tegund(ID)
+  FOREIGN KEY (ID)
+    REFERENCES tegund(ID),
   FOREIGN KEY (ID)
     REFERENCES diskur(ID)
 )
@@ -55,10 +55,10 @@ CREATE TABLE flytjandi
   nafn VARCHAR(50),
   faedingardagur DATE,
   Danardagur DATE,
-  FOREIGN KEY (ID),
-    REFERENCES Thema(ID)
-  FOREIGN KEY (ID),
-    REFERENCES flokkur(ID)
+  FOREIGN KEY (ID)
+    REFERENCES Thema(ID),
+  FOREIGN KEY (ID)
+    REFERENCES flokkur(ID),
   FOREIGN KEY (ID)
     REFERENCES lag(ID)
 )
