@@ -1,0 +1,64 @@
+CREATE DATABASE 0102992099_lokaverkefni
+
+CREATE TABLE utgefandi
+(
+  ID INT PRIMARY KEY AUTO_INCREMENT,
+  nafn VARCHAR(50),
+  stofnandi VARCHAR(50),
+  ar_stofnad DATE
+)
+
+CREATE TABLE diskur
+(
+  ID INT PRIMARY KEY AUTO_INCREMENT,
+  nafn VARCHAR(50),
+  utgafudagur DATE,
+  fjoldi_laga INT,
+  lengd_sek INT,
+  FOREIGN KEY (ID)
+    REFERENCES utgefandi(ID)
+)
+
+CREATE TABLE thema
+(
+  ID INT PRIMARY KEY AUTO_INCREMENT,
+  nafn VARCHAR(50)
+)
+
+CREATE TABLE flokkur
+(
+  ID INT PRIMARY KEY AUTO_INCREMENT,
+  nafn VARCHAR(50)
+)
+
+CREATE TABLE tegund
+(
+  ID INT PRIMARY KEY AUTO_INCREMENT,
+  nafn VARCHAR(50)
+)
+
+CREATE TABLE lag
+(
+  ID INT PRIMARY KEY AUTO_INCREMENT,
+  nafn VARCHAR(50) NOT NULL,
+  lengd_sek INT NOT NULL,
+  texti LONGTEXT,
+  FOREIGN KEY (ID),
+    REFERENCES tegund(ID)
+  FOREIGN KEY (ID)
+    REFERENCES diskur(ID)
+)
+
+CREATE TABLE flytjandi
+(
+  ID INT PRIMARY KEY AUTO_INCREMENT,
+  nafn VARCHAR(50),
+  faedingardagur DATE,
+  Danardagur DATE,
+  FOREIGN KEY (ID),
+    REFERENCES Thema(ID)
+  FOREIGN KEY (ID),
+    REFERENCES flokkur(ID)
+  FOREIGN KEY (ID)
+    REFERENCES lag(ID)
+)
