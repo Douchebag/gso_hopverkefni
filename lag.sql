@@ -1,5 +1,5 @@
 INSERT INTO lag
-(nafn, lengd_sek, texti)
+(nafn, lengd_sek, texti, tegund_ID, diskur_ID)
 VALUES
 ("Message From the Road","176","Heres my message from the road
 Im travelin to a new time zone
@@ -23,7 +23,7 @@ Always somewhere on the road
 Wherever you may go
 Youll have a place in my heart
 When night turns into day
-In your reality, Ill be just another memory"),
+In your reality, Ill be just another memory", "5", "3"),
 ("Americana","242","I wanna make my home
 Where the buffalo roam
 In that great panorama
@@ -62,7 +62,7 @@ But its a long long time
 Americana
 
 I wanna make my home where the buffalo roam
-Oh"),
+Oh", "5", "3"),
 ("PRIDE","271","Loves gonna get you killed
 But pride’s gonna be the death of you and you and me
 And you and you and you and me
@@ -136,7 +136,7 @@ I care, I care
 Maybe I wasnt there
 Maybe I wasnt there
 Maybe I wasnt there
-Maybe I wasnt there"),
+Maybe I wasnt there", "1", "1"),
 ("Thug Passion", "308", "[Intro]
 Aight, new drink
 One part Alizé, one part Cristal
@@ -279,7 +279,7 @@ And you got it goin' on
 Give me some of your thug passion, baby
 You got me drippin' wet
 From the way you make me sweat
-Give me some of your thug passion, baby ohhhwow!"),
+Give me some of your thug passion, baby ohhhwow!", "1", "1"),
 ("When We Ride", "309", "[Intro: 2Pac]
 Outlaw Immortalz
 Bow down to somethin' greater than yourself, trick
@@ -415,9 +415,7 @@ Like I'll make you famous motherfucker
 I'm talkin about Newsweek and Time Magazine and all that ol good shit
 My niggas make the papers baby
 My niggas make the front page
-The gunshots can't stop me, they know (fades)
-
-   5"),
+The gunshots can't stop me, they know (fades)", "1", "6"),
 ("Shorty Wanna Be a Thug", "231", "[Produced by Johnny J]
 
 [Hook]
@@ -493,7 +491,7 @@ Got plenty of time (you bad mothafuckas)
 You only get three mistakes, and then it's life, big baby
 (Niggas craaazy) Watch the signs!
 Damn, nigga! Sixteen, nigga?
-Sixteen?! Too bad, mothafuckers"),
+Sixteen?! Too bad, mothafuckers", "1", "7"),
 ("Can't C Me", "350", "[Intro: George Clinton]
 The blind stares of a million pairs of eyes
 Looking hard, but won't realize
@@ -515,7 +513,7 @@ Is you a friend or foe?
 Nigga, you ain't know?
 They got me stressed out on Death Row
 I've seen money, but baby, I've gots to get mo'
-You screaming: "Go 2Pac!"
+You screaming: Go 2Pac!
 And I ain't stopping 'til I'm well-paid
 Bail's paid now nigga look what hell made
 Visions of cops and sirens, niggas open fire
@@ -615,7 +613,7 @@ Come to see me, but you can't
 Oh, you can't see me, you can't see me
 Right between your eyes and you'll never realize
 Right before your eyes, you won't even realize
-Visualize what you can't see"),
+Visualize what you can't see", "1", "7"),
 ("LOYALTY", "227", "[Intro: Mr. Talkbox]
 
 [Pre-Chorus: DJ Dahi]
@@ -720,7 +718,7 @@ Loyalty, loyalty, loyalty
 It's so hard to be humble
 It's so hard to be
 Lord knows I'm tryin'
-Lord knows I'm dyin', baby"),
+Lord knows I'm dyin', baby", "1", "1"),
 ("FEEL", "214", "[Intro: Kendrick Lamar & Chelsea Blythe]
 Ain't nobody prayin' for me
 Ain't nobody prayin' for me
@@ -807,7 +805,7 @@ But who the fuck prayin' for me?
 [Outro]
 Ain't nobody prayin' for me
 Who prayin' for me?
-Ain't nobody prayin'"),
+Ain't nobody prayin'", "1", "1"),
 ("ELEMENT", "208", "[Intro: Kid Capri & Kendrick Lamar]
 New Kung Fu Kenny
 Ain't nobody prayin' for me
@@ -826,7 +824,7 @@ My daddy commissary made it to commas
 Bitch, all my grandmas dead
 So ain't nobody prayin' for me, I'm on your head, ayy
 Thirty millions later, know the feds watchin'
-Auntie on my Telegram, like, "Be cautious!"
+Auntie on my Telegram, like, Be cautious!
 I be hangin' out at Tam's, I be on Stockton
 I don't do it for the 'Gram, I do it for Compton
 I'm willin' to die for this shit, nigga
@@ -895,7 +893,7 @@ It's the one and only, the world's greatest, the Kid Capri
 If I gotta go hard on a bitch, I'ma make it look sexy
 I pull up, hop out, air out, made it look sexy
 They won't take me out my element
-Nah, take me out my element"),
+Nah, take me out my element", "1", "1"),
 ("Picture Me Rollin", "315", "[Intro]
 Yeah, clear enough for ya? (alright)
 My niggas look mad
@@ -1033,7 +1031,7 @@ Can you see me, ho?
 Is y'all ready for me? We up out this bitch
 Any time y'all wanna see me again
 Rewind this track right here
-Close your eyes and picture me rollin'"),
+Close your eyes and picture me rollin'", "1", "7"),
 ("DNA", "185", "[Verse 1]
 
 I got, I got, I got, I got
@@ -1140,7 +1138,7 @@ Power shows inside my DNA
 DNA
 Gimme some ganja, gimme some ganja
 Real nigga in my DNA
-Ain't no ho inside my DNA"),
+Ain't no ho inside my DNA", "1", "1"),
 ("BLOOD", "118", "[Intro: Bēkon]
 Is it wickedness?
 Is it weakness?
@@ -1148,7 +1146,7 @@ You decide
 Are we gonna live or die?
 
 [Verse: Kendrick Lamar]
-So I was takin' a walk the other day, and I seen a woman—a blind woman—pacin' up and down the sidewalk. She seemed to be a bit frustrated, as if she had dropped somethin' and havin' a hard time findin' it. So after watchin' her struggle for a while, I decide to go over and lend a helping hand, you know? "Hello, ma'am, can I be of any assistance? It seems to me that you have lost something. I would like to help you find it." She replied: "Oh yes, you have lost something. You've lost... your life."
+So I was takin' a walk the other day, and I seen a woman—a blind woman—pacin' up and down the sidewalk. She seemed to be a bit frustrated, as if she had dropped somethin' and havin' a hard time findin' it. So after watchin' her struggle for a while, I decide to go over and lend a helping hand, you know? Hello, ma'am, can I be of any assistance? It seems to me that you have lost something. I would like to help you find it. She replied: Oh yes, you have lost something. You've lost... your life.
 
 {Gunshot}
 
@@ -1157,7 +1155,7 @@ Is it wickedness?
 
 [Outro]
 Lamar stated his views on police brutality with that line in the song, quote: And we hate the popo, wanna kill us in the street fo' sho'…
-Oh please, ugh, I don't like it."),
+Oh please, ugh, I don't like it.", "1", "1"),
 ("Got My Mind Made Up", "313", "[Verse 1: Daz Dillinger]
 You find an MC like me who's strong
 Leavin' motherfuckers aborted with no verbal support
@@ -1289,7 +1287,7 @@ Get roast by my lyrical Billy Dee .45 Colt
 (And I'm out for 9-nickel)
 
 [Outro]
-INS the rebel"),
+INS the rebel", "1", "7"),
 ("Skandalouz", "249", "[Intro: 2Pac & Nate Dogg]
 Hey Nate, you know you got the vocals on this motherfucker
 We finna talk about these scandalous hoes
@@ -1384,7 +1382,7 @@ That's aight though
 Keep a nigga heavy in the game, 'bout so long
 Watch them hoes
 All you niggas out there
-Beware these lying ass scandalous bitches"),
+Beware these lying ass scandalous bitches", "1", "7"),
 ("All About U", "276", "[Intro: 2Pac + Dru Down]
 Ah, yeah! Hahaha (Yeah!)
 It's all about you, one time!
@@ -1502,7 +1500,7 @@ And I see the same bitch, on the Million Man March
 That was in the homeboy Warren G video
 I mean, damn, everywhere I look
 Everywhere I go, I see the same ho'
-Don't get mad, I'm only bein' real, yeah"),
+Don't get mad, I'm only bein' real, yeah", "1", "7"),
 ("Ambitionz Az a Ridah", "279", "[Hook]
 I won't deny it, I'm a straight ridah
 You don't wanna fuck with me
@@ -1524,12 +1522,12 @@ My ambitions as a ridah
 So many battlefield scars while driven in plush cars
 This life as a rap star is nothin' without guard
 Was born rough and rugged, addressin' the mass public
-My attitude was "fuck it," because motherfuckers love it
+My attitude was fuck it, because motherfuckers love it
 To be a soldier, must maintain composure at ease
 Though life is complicated, only what you make it to be
 Uh, and my ambitions as a ridah
 To catch her while she hot and horny, go up inside her
-Then I spit some game in her ear, "Go to the telly, hoe!"
+Then I spit some game in her ear, Go to the telly, hoe!
 Equipped with money in a Benz
 ‘Cause, bitch, I'm barely broke
 I'm smokin' bomb-ass weed, feelin' crucial
@@ -1626,7 +1624,7 @@ I won't deny it, I'm a straight ridah
 You don't wanna fuck with me
 Got the police bustin' at me
 But they can't do nothin' to a G
-Let's get ready to rumble"),
+Let's get ready to rumble", "1", "7"),
 ("Carnival", "135", "[Intro]
 Carnival
 
@@ -1665,7 +1663,7 @@ We laughed, just like a carnival
 Sleep with the dead, just like a carnival
 Playing with your mind, jJust like a-
 Spinning me round and around and around
-Just like a carnival, yeah"),
+Just like a carnival, yeah", "1", "5"),
 ("Ascension", "155", "[Intro: Vince Staples]
 You are now tuned into the tomb of Jehova
 Play my tunes loud enough to shake the room, what's the hold up?
@@ -1755,7 +1753,7 @@ Drop that ass 'fore it crash (higher)
 The sky's falling, baby
 Drop that ass 'fore it crash (higher)
 The sky's falling, baby
-Drop that ass 'fore it crash (higher)"),
+Drop that ass 'fore it crash (higher)", "5", "5"),
 ("YAH.", "160", "[Intro: Kid Capri]
 New shit, new Kung Fu Kenny
 
@@ -1781,7 +1779,7 @@ Yah, yah, yah, yah, yah, yah
 Interviews wanna know my thoughts and opinions
 Fox News wanna use my name for percentage
 My latest muse is my niece, she worth livin'
-See me on the TV and scream: "That's Uncle Kendrick!"
+See me on the TV and scream: Thats Uncle Kendrick!
 Yeah, that's the business
 Somebody tell Geraldo this nigga got some ambition
 I'm not a politician, I'm not 'bout a religion
@@ -1802,46 +1800,105 @@ Yah, yah, yah, yah
 Yah, yah, yah, yah, yah, yah
 Buzzin', radars is buzzin'
 Yah, yah, yah, yah
-Yah, yah, yah, yah, yah, yah"),
-("LOVE.", "211", "Intro: [Kendrick Lamar]
-Damn, love or lust
-Damn, all of us
+Yah, yah, yah, yah, yah, yah", "1", "1"),
+("Be Myself", "261", "[Verse 1]
+Saw my shrink today, he said, Girl, I can't help you
+Ive been seeing you so long, but nothing has changed
+You tried Adderall and alcohol, sadly the fact remains
+Youre terminally normal, Im sorry to say
+So I shaved my head, I changed my name
+I gave my pills away
 
-[Chorus: Zacari & Kendrick Lamar]
-Give me a run for my money
-There is nobody, no one to outrun me
-(Another world premiere!)
-So give me a run for my money
-Sippin bubbly feelin lovely livin lovely
-Just love me
-I wanna be with you ayy, I wanna be with
-Just love me, just love me just love me
-I wanna be with you ayy I wanna be with
-Love me
-I wanna be with you
-Love me just love me
+[Chorus]
+Cause If I cant be someone else
+Oh, if I cant be someone else
+I might as well be myself, myself
+Be myself
 
-[Refrain: Kendrick Lamar & Zacari]
-If I didnt ride blade on curb, would you still love me?
-If I minimized my net worth, would you still love me?
-Keep it a hundred, Id rather you trust me than to love me
-Keep it a whole one hund: dont got you, I got nothin
+[Verse 2]
+Hanging with the hipsters is a lot of hard work
+How many selfies can you take before you look like a jerk?
+I took an Uber to a juice bar, to hear a new indie band play
+They got 99 million followers, in only one day
+Well, I snapped a pic, and I made the slip
+I got into a strangers car
+Well, the heels dont fit
+I finally quit
+And I headed back to my favorite bar
 
-[Verse 1: Kendrick Lamar]
-Ayy, I got somethin
-Hol up, we gon function, no assumptions
-Feelin like Tyson with it
-Knock it out twice, I’m with it
-Only for the night, I’m kiddin
-Only for life, youre a homie for life
-Youre a homie for life, lets get it
-Hit that shoulder lean
-I know what comin over mean
-Backstroke oversea
-I know what you need
-Already on ten, our money come in
-All feeling go out, this feeling don’t drought
-This party wont end
+[Chorus]
+Cause if I cant be someone else
+If I cant be someone else
+I might as well be myself, myself
 
+[Bridge]
+Dont you wanna be your own girl?
+Dont you wanna be your own girl?
+Dont you wanna be your own girl?
+Oh, oh
 
+[Chorus]
+If I cant be someone else
+If I cant be someone else
+Oh, if I cant be someone else, ow!
+If I cant be someone else
+If I cant be someone else
+Oh, if I cant be someone else
+I might as well be myself
+If I cant be someone else
+If I cant be someone else
+Oh, If I cant be someone else
+I might as well be myself, myself
+Be myself
+Gonna be myself", "5", "2"),
+("Bloodstream", "225", "[Verse 1]
+I've been drunk three times this week
+Spent all my money on a fleeting moment
+I thought I-I-I-I-I-I can shake this off
+Now I-I-I-I-I-I can't make this stop
+Yeah, things were sweet three months ago
+When I was living how I wanna on my own
+And I thought I-I-I-I-I-I don't need that much
+I guess I-I-I-I-I-I was out of touch
 
+[Chorus]
+I'm fucked up, I'm faded
+I'm so complicated
+Those things that I said
+They were so overrated
+But I-I-I-I-I-I, yeah, I meant it
+Oh yeah, I-I-I-I-I-I, really fucking meant it
+
+Yeah, I meant it
+
+[Verse 2]
+I gave up three times this week
+Went through those feelings
+Like I wasn't worth nothing
+I thought I-I-I-I-I-I can shake this off
+No, I-I-I-I-I-I can't be this soft
+
+[Chorus]
+I'm fucked up, I'm faded
+I'm so complicated
+Those things that I said
+They were so overrated
+But I-I-I-I-I-I, yeah, I meant it
+Oh yeah, I-I-I-I-I-I, really fucking meant it
+
+Yeah, I meant it
+
+[Middle 8]
+I'm fucked up, I'm faded
+I'm so complicated
+Those things that I said
+They were so overrated
+But I-I-I-I-I, yeah, I meant it
+Oh yeah, I-I-I-I-I, really fucking meant it
+
+[Chorus]
+Yeah, I meant it
+Yeah, I meant it
+Yeah, I meant it
+Yeah, I meant it
+Yeah, I, I, I, really fucking meant it", "4", "4")
