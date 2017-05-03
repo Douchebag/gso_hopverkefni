@@ -1,0 +1,11 @@
+d select nafn,lengd_sek
+from lag
+where lengd_sek > 300
+
+e select nafn,utgafudagur
+from diskur
+where utgafudagur > '2010-01-01'
+
+k select nafn
+from lag
+where nafn like 'A%' or nafn like '%s%'
