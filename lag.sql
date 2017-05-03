@@ -1,6 +1,142 @@
 INSERT INTO lag
 (nafn, lengd_sek, texti)
 VALUES
+("Message From the Road","176","Heres my message from the road
+Im travelin to a new time zone
+So try to call again tomorrow
+
+Tell my kid I miss her so
+Then Ill play in shows and singin songs
+But I miss the place where I belong
+In another town, but still I find
+That you are always on my mind
+When night turns into day
+Theres another town so far away
+Waiting for me on The Great Highway
+
+Right now youre in a far country
+With good-time gals who come and go
+Youll party with the good old boys
+Have a drink and act macho
+Out of sight and out of mind
+Always somewhere on the road
+Wherever you may go
+Youll have a place in my heart
+When night turns into day
+In your reality, Ill be just another memory"),
+("Americana","242","I wanna make my home
+Where the buffalo roam
+In that great panorama
+
+My baby brother and me
+In the land of the free
+Americana
+
+In my schoolboy world
+I always get the girl
+On that great silver screen
+Cause since I was a teen
+Ya know I had this dream
+Americana
+Oh
+
+Runnin high on inspiration
+Taken from those Wild West heroes
+Full of expectations of the road
+On that windin trail to somewhere
+Young and foolish though he did not care
+What dangers lay in store and so
+
+In the steps of the great pioneers
+For (?) I cant understand how Im gonna
+Get there from here
+Wherever it goes, its gonna take me somewhere
+
+Americana
+Kentucky Moon
+Montana sky
+Sierra, Nevada
+
+(?)
+But its a long long time
+Americana
+
+I wanna make my home where the buffalo roam
+Oh"),
+("PRIDE","271","Loves gonna get you killed
+But pride’s gonna be the death of you and you and me
+And you and you and you and me
+And you and you and you and me
+And you and you and you and me and—
+
+[Chorus: Steve Lacy & Kendrick Lamar]
+Me, I wasnt taught to share, but care
+In another life, I surely was there
+Me, I wasnt taught to share, but care
+I care, I care
+
+[Verse 1: Kendrick Lamar]
+Hell-raising, wheel-chasing, new worldy possessions
+Flesh-making, spirit-breaking, which one would you lessen?
+The better part, the human heart
+You love ’em or dissect em
+Happiness or flashiness? How do you serve the question?
+See, in the perfect world, I would be perfect, world
+I dont trust people enough beyond they surface, world
+I dont love people enough to put my faith in men
+I put my faith in these lyrics, hoping I make amend
+I understand I aint perfect
+I probably wont come around
+This time, I might put you down
+Last time, I aint give a fuck, I still feel the same now
+My feelings might go numb, youre dealing with cold thumb
+I’m willing to give up a leg and arm and show empathy from
+Pity parties and functions and you and yours
+A perfect world, you probably live another 24
+I can’t fake humble just cause your ass is insecure
+I can’t fake humble just cause your ass is insecure
+
+[Chorus: Steve Lacy & Kendrick Lamar]
+Me, I wasnt taught to share, but care
+In another life, I surely was there
+Me, I wasnt taught to share, but care
+I care, I care
+
+[Refrain: Kendrick Lamar & Anna Wise]
+Maybe I wasn’t there
+Maybe I wasnt there
+Maybe I wasnt there
+Maybe I wasnt there
+
+[Verse 2: Kendrick Lamar]
+Now, in a perfect world, I probably wont be insensitive
+Cold as December, but never remember what Winter did
+I wouldnt blame you for mistakes I made or the bed I laid
+Seems like I point the finger just to make a point nowadays
+Smiles and cold stares, the temperature goes there
+Indigenous disposition, feel like we belong here
+I know the walls, they can listen, I wish they could talk back
+The hurt becomes repetition, the love almost lost that
+Sick venom in men and women overcome with pride
+A perfect world is never perfect, only filled with lies
+Promises are broken and more resentment come alive
+Race barriers make inferior of you and I
+See, in a perfect world, Ill choose faith over riches
+Ill choose work over bitches, Ill make schools out of prison
+Ill take all the religions and put em all in one service
+Just to tell em we aint shit, but Hes been perfect, world
+
+[Chorus: Steve Lacy & Kendrick Lamar]
+Me, I wasnt taught to share, but care
+In another life, I surely was there
+Me, I wasnt taught to share, but care
+I care, I care
+
+[Refrain: Kendrick Lamar & Anna Wise]
+Maybe I wasnt there
+Maybe I wasnt there
+Maybe I wasnt there
+Maybe I wasnt there"),
 ("Thug Passion", "308", "[Intro]
 Aight, new drink
 One part Alizé, one part Cristal
@@ -1667,7 +1803,7 @@ Yah, yah, yah, yah, yah, yah
 Buzzin', radars is buzzin'
 Yah, yah, yah, yah
 Yah, yah, yah, yah, yah, yah"),
-("LOVE.", "211", "[Intro: Kendrick Lamar]
+("LOVE.", "211", "Intro: [Kendrick Lamar]
 Damn, love or lust
 Damn, all of us
 
@@ -1676,216 +1812,36 @@ Give me a run for my money
 There is nobody, no one to outrun me
 (Another world premiere!)
 So give me a run for my money
-Sippin' bubbly, feelin’ lovely, livin' lovely
+Sippin bubbly feelin lovely livin lovely
 Just love me
-I wanna be with you, ayy, I wanna be with
-Just love me, just love me, just love me
-I wanna be with you, ayy, I wanna be with
+I wanna be with you ayy, I wanna be with
+Just love me, just love me just love me
+I wanna be with you ayy I wanna be with
 Love me
 I wanna be with you
-Love me, just love me
+Love me just love me
 
 [Refrain: Kendrick Lamar & Zacari]
-If I didn't ride blade on curb, would you still love me?
+If I didnt ride blade on curb, would you still love me?
 If I minimized my net worth, would you still love me?
-Keep it a hundred, I’d rather you trust me than to love me
-Keep it a whole one hund': don't got you, I got nothin'
+Keep it a hundred, Id rather you trust me than to love me
+Keep it a whole one hund: dont got you, I got nothin
 
 [Verse 1: Kendrick Lamar]
-Ayy, I got somethin'
-Hol' up, we gon' function, no assumptions
-Feelin' like Tyson with it
+Ayy, I got somethin
+Hol up, we gon function, no assumptions
+Feelin like Tyson with it
 Knock it out twice, I’m with it
-Only for the night, I’m kiddin'
-Only for life, you’re a homie for life
-You're a homie for life, let's get it
+Only for the night, I’m kiddin
+Only for life, youre a homie for life
+Youre a homie for life, lets get it
 Hit that shoulder lean
-I know what comin' over mean
+I know what comin over mean
 Backstroke oversea
 I know what you need
 Already on ten, our money come in
 All feeling go out, this feeling don’t drought
-This party won't end
+This party wont end
 
-[Refrain: Kendrick Lamar & Zacari]
-If I didn't ride blade on curb, would you still love me?
-If I minimized my net worth, would you still love me?
-Keep it a hundred, I'd rather you trust me than to love me
-Keep it a whole one hund': don't got you, I got nothin'
 
-[Chorus: Zacari & Kendrick Lamar]
-Give me a run for my money
-There is nobody, no one to outrun me
-So give me a run for my money
-Sippin' bubbly, feelin' lovely, livin' lovely
-Just love me
-I wanna be with you, ayy, I wanna be with
-Just love me, just love me, just love me
-I wanna be with you, ayy, I wanna be with
-Love me
-I wanna be with you
-Love me, just love me
 
-[Verse 2: Kendrick Lamar]
-I'm on the way
-We ain't got no time to waste
-Poppin' your gum on the way
-Am I in the way?
-I don't wan' pressure you none
-I want your blessing today
-Oh, by the way, open the door by the way
-Told you that I'm on the way
-I'm on the way, I know connection is vague
-Pick up the phone for me, babe
-Damn it, we jammin'
-Bad attitude from yo' nanny
-Curves and your hips from yo' mammy
-Remember Gardena, I took the studio camera
-I know Top will be mad at me
-I had to do it, I want your body, your music
-I bought the big one to prove it
-Look what you made
-Told you that I'm on the way
-I'm like an exit away, yep
-
-[Refrain: Kendrick Lamar & Zacari]
-If I didn't ride blade on curb, would you still love me?
-If I minimized my net worth, would you still love me?
-Keep it a hundred, I'd rather you trust me than to love me
-Keep it a whole one hund': don't got you, I got nothin'
-
-[Chorus: Zacari & Kendrick Lamar]
-Give me a run for my money
-There is nobody, no one to outrun me
-So give me a run for my money
-Sippin' bubbly, feelin' lovely, livin' lovely
-Just love me
-I wanna be with you, ayy, I wanna be with
-Just love me, just love me, just love me
-I wanna be with you, ayy, I wanna be with
-Love me
-I wanna be with you
-Love me, just love me"),
-("DNA.", "185", "[Verse 1]
-I got, I got, I got, I got
-Loyalty, got royalty inside my DNA
-Cocaine quarter piece, got war and peace inside my DNA
-I got power, poison, pain and joy inside my DNA
-I got hustle though, ambition, flow, inside my DNA
-I was born like this, since one like this
-Immaculate conception
-I transform like this, perform like this
-Was Yeshua's new weapon
-I don’t contemplate, I meditate, then off your fucking head
-This that put-the-kids-to-bed
-This that I got, I got, I got, I got
-Realness, I just kill shit 'cause it's in my DNA
-I got millions, I got riches buildin’ in my DNA
-I got dark, I got evil, that rot inside my DNA
-I got off, I got troublesome heart inside my DNA
-I just win again, then win again like Wimbledon, I serve
-Yeah, that's him again, the sound that engine in is like a bird
-You see fireworks and Corvette tire skrrt the boulevard
-I know how you work, I know just who you are
-See, you's a, you's a, you's a—
-Bitch, your hormones prolly switch inside your DNA
-Problem is, all that sucker shit inside your DNA
-Daddy prolly snitched, heritage inside your DNA
-Backbone don't exist, born outside a jellyfish, I gauge
-See, my pedigree most definitely don't tolerate the front
-Shit I've been through prolly offend you
-This is Paula’s oldest son
-I know murder, conviction
-Burners, boosters, burglars, ballers, dead, redemption
-Scholars, fathers dead with kids
-And I wish I was fed forgiveness
-Yeah, yeah, yeah, yeah, soldier’s DNA
-Born inside the beast
-My expertise checked out in second grade
-When I was 9, on-sale motel, we didn't have nowhere to stay
-At 29, I’ve done so well, hit cartwheel in my estate
-And I'm gon' shine like I'm supposed to
-Antisocial, extrovert
-And excellent mean the extra work
-And absentness what the fuck you heard
-And pessimists never struck my nerve
-And Nazareth gonna plead his case
-The reason my power’s here on earth
-Salute the truth, when the prophet say
-
-[Bridge]
-I got loyalty, got royalty inside my DNA
-This is why I say that hip hop has done more damage to young African Americans than racism in recent years
-I got loyalty, got royalty inside my DNA
-I live a better life, I'm rollin' several dice, fuck your life
-I got loyalty, got royalty inside my DNA
-I live a better, fuck your life
-5, 4, 3, 2, 1
-This is my heritage, all I'm inheritin'
-Money and power, the mecca of marriages
-
-[Verse 2]
-Tell me somethin'
-You mothafuckas can't tell me nothin'
-I'd rather die than to listen to you
-My DNA not for imitation
-Your DNA an abomination
-This how it is when you're in the Matrix
-Dodgin' bullets, reapin' what you sow
-And stackin' up the footage, livin' on the go
-And sleepin' in a villa
-Sippin' from a Grammy and walkin' in the buildin'
-Diamond in the ceilin', marble on the floors
-Beach inside the window, peekin' out the window
-Baby in the pool, godfather goals
-Only Lord knows, I've been goin' hammer
-Dodgin' paparazzi, freakin' through the cameras
-Eat at Four Daughters, Brock wearin' sandals
-Yoga on a Monday, stretchin' to Nirvana
-Watchin' all the snakes, curvin' all the fakes
-Phone never on, I don't conversate
-I don't compromise, I just penetrate
-Sex, money, murder—these are the breaks
-These are the times, level number 9
-Look up in the sky, 10 is on the way
-Sentence on the way, killings on the way
-Motherfucker, I got winners on the way
-You ain't shit without a body on your belt
-You ain't shit without a ticket on your plate
-You ain't sick enough to pull it on yourself
-You ain't rich enough to hit the lot and skate
-Tell me when destruction gonna be my fate
-Gonna be your fate, gonna be our faith
-Peace to the world, let it rotate
-Sex, money, murder—our DNA
-
-[Video Outro]
-DNA
-Gimme some ganja, gimme some ganja
-DNA
-Gimme some ganja
-Real nigga in my DNA
-Ain't no ho inside my DNA
-Drippin' gold inside my DNA
-Power shows inside my DNA
-DNA
-Gimme some ganja, gimme some ganja
-Real nigga in my DNA
-Ain't no ho inside my DNA"),
-("BLOOD.", "118", "[Intro: Bēkon]
-Is it wickedness?
-Is it weakness?
-You decide
-Are we gonna live or die?
-
-[Verse: Kendrick Lamar]
-So I was takin' a walk the other day, and I seen a woman—a blind woman—pacin' up and down the sidewalk. She seemed to be a bit frustrated, as if she had dropped somethin' and havin' a hard time findin' it. So after watchin' her struggle for a while, I decide to go over and lend a helping hand, you know? "Hello, ma'am, can I be of any assistance? It seems to me that you have lost something. I would like to help you find it." She replied: "Oh yes, you have lost something. You've lost... your life."
-
-{Gunshot}
-
-[Bridge: Bēkon]
-Is it wickedness?
-
-[Outro]
-Lamar stated his views on police brutality with that line in the song, quote: "And we hate the popo, wanna kill us in the street fo' sho'…"
-Oh please, ugh, I don't like it.")
