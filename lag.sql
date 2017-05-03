@@ -760,53 +760,144 @@ If I gotta go hard on a bitch, I'ma make it look sexy
 I pull up, hop out, air out, made it look sexy
 They won't take me out my element
 Nah, take me out my element"),
-("YAH", "160", "[Intro: Kid Capri]
-New shit, new Kung Fu Kenny
+("Picture Me Rollin", "315", "[Intro]
+Yeah, clear enough for ya? (alright)
+My niggas look mad
+Y'all supposed to be happy I'm free!
+Y'all niggas look like y'all wanted me to stay in jail
+Ho bustas!
 
-[Verse 1]
-I got so many theories and suspicions
-I'm diagnosed with real nigga conditions
-Today is the day I follow my intuition
-Keep the family close—get money, fuck bitches
-I double parked the Aston in the red
-My mama told me that I'ma work myself to death
-My girl told me don't let these hoes get in my head
-My world been ecstatic, I checked the signal that read—
+[Verse 1: 2Pac]
+Picture me rollin' in my 500 Benz
+I got no love for these niggas, there's no need to be friends
+They got me under surveillance
+That's what somebody be tellin'
+Know there's dope bein' sold, but I aint the one sellin
+Don't want to be another number
+I gotta puff a gang of weed to keep from goin under
+The federales wanna see me dead
+Niggas put prices on my head
+Now I got two Rottweilers by my bed, I feed 'em lead
+Now I'm released, how will I live?
+Will God forgive me for all the dirt a nigga did, to feed kids?
+One life to live, it's so hard to be positive
+When niggas shootin' at your crib
+Mama, I'm still thuggin', the world is a war zone
+My homies is inmates, and most of them dead wrong
+Full grown, finally a man, just schemin' on ways
+To put some green inside the palms of my empty hands
+Just picture me rollin'
+Flossin' a Benz on rims that isn't stolen
+My dreams is censored, my hopes are gone
+I'm like a fiend that finally sees when all the dope is gone
+My nerves is wrecked, heart beatin'
+And my hands are swollen
+Thinkin' of the G's I'll be holdin'; picture me rollin'
 
-[Chorus]
-Buzzin', radars is buzzin'
-Yah, yah, yah, yah
-Yah, yah, yah, yah, yah, yah
-Buzzin', radars is buzzin'
-Yah, yah, yah, yah
-Yah, yah, yah, yah, yah, yah
+[Refrain: Danny Boy]
+Picture me rollin'
+Picture me rollin'
+Picture me, picture me rollin'
+Picture me rollin'
+Ooh wee
 
-[Verse 2]
-Interviews wanna know my thoughts and opinions
-Fox News wanna use my name for percentage
-My latest muse is my niece, she worth livin'
-See me on the TV and scream: That's Uncle Kendrick!
-Yeah, that's the business
-Somebody tell Geraldo this nigga got some ambition
-I'm not a politician, I'm not 'bout a religion
-I'm a Israelite, don't call me Black no mo'
-That word is only a color, it ain't facts no mo'
-My cousin called, my cousin Carl Duckworth
-Said know my worth
-And Deuteronomy say that we all been cursed
-I know he walks the Earth
-But it's money to get, bitches to hit, yah
-Zeroes to flip, temptation is, yah
-First on my list, I can't resist, yah
-Everyone together now, know that we forever—
+[2Pac during Refrain]
+Can you see me now?
+Move to the side a little bit so you can get a clear picture
+Can you see it?
+Picture me rollin'
+Yeah, nigga!
+Aye, but peep how my nigga Syke do it to you
+Guess who's back?
 
-[Chorus]
-Buzzin', radars is buzzin'
-Yah, yah, yah, yah
-Yah, yah, yah, yah, yah, yah
-Buzzin', radars is buzzin'
-Yah, yah, yah, yah
-Yah, yah, yah, yah, yah, yah"),
+[Verse 2: Big Syke]
+I got ki's comin' from overseas
+Cost a nigga 200 G's
+I'm a street commando, Nino for example
+This lavish lifestyle is hard to handle
+So I got to floss 'cause I'm more like a boss player
+Thug, branded to be a women-layer
+So many player haters, imitators steady swangin'
+Make me wanna start back bangin'
+So I'm caught up in the game, dress code changed
+Packin' 40 Glocks, contain 'em or rearrange
+All that jealousy and envy comin' from my enemies
+While I'm sippin' on Rémy
+In front of black Lexus, Chevy's on the roam
+'96 big body, sittin' on chrome
+As we head up out the zone, stone-facin' is on
+You can admire, but don't look too long
+I'm livin' a dream with triple beams and my pockets bulgin'
+It's hard to imagine, picture me rollin'
+
+[Refrain: Danny Boy]
+Picture me rollin'
+Picture, picture me rollin'
+Picture me rollin'
+Picture me rollin'
+Picture me
+
+[Verse 3: CPO]
+I gots to get the fuck up in it, formulate a caper
+'Cause a nigga straight sufferin' from lack of havin' paper
+My bitch fin' to have a bastard, see?
+So I needs to hit a lick, drastically
+I see some ballin'-ass niggas, and they slippin' in my spot
+And, uh, diggin' the plots (so what?)
+Checkin' in the park, 'Pac
+
+[Verse 4: 2Pac]
+We caught him sleepin'
+He didn't peep you niggas creepin'?
+This how we do it every weekend
+I dump for madness, it's time to count the profit
+CPO, you got the bomb spot
+Nigga, time to clock it
+I get the liquor, and you can get the females
+This crooked shit that we inflictin', gettin' street sales
+
+[Verse 5: CPO]
+Move smooth as a motherfucker, me and my 9
+I'm cool as a motherfucker, I'ma get mine
+Now we satisfied, got the pockets on swollen
+Boss Hogg and this 'Pac nigga, picture us rollin'
+
+[Refrain: Danny Boy]
+Picture me rollin'
+Picture me
+Picture me rollin'
+Picture me rollin'
+
+[Outro: 2Pac]
+Is y'all ready for me?
+Picture me rollin' roll call
+You know there's some muh'fuckers out there
+I just could not forget about
+I wanna make sure they can see me
+Number one on my list: Clinton Correctional Facilities
+All you bitch-ass CO's
+Can you niggas see me from there?
+Ballin' on y'all punk-ass!
+Picture me rollin', baby!
+Yeah, all them niggas up in them cell blocks
+I told y'all niggas when I come home it's on
+That's right, nigga, picture me rollin'
+Oh, I forgot! The DA
+Yeah, that bitch had a lot to talk about in court
+Can the ho see me from here?
+Can you see me, ho? Picture me rollin'
+And all you punk police, can you see me?
+Am I clear to you?
+Picture me rollin', nigga, legit
+Free like O.J. all day, you can't stop me
+You know I got my niggas up in this motherfucker
+Manute, Pain, Syke, Bogart, Mopreme
+It's sad, dog, can you picture us rollin'?
+Can you see me, ho?
+Is y'all ready for me? We up out this bitch
+Any time y'all wanna see me again
+Rewind this track right here
+Close your eyes and picture me rollin'"),
 ("DNA", "185", "[Verse 1]
 
 I got, I got, I got, I got
