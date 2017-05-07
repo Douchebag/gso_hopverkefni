@@ -5,4 +5,4 @@ VALUES
 ("Pop"),
 ("Rock"),
 ("Electronic"),
-("")
+("Pop/rock")
